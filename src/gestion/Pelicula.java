@@ -9,6 +9,16 @@ package gestion;
  *
  * @author crist
  */
+import java.util.*;
 public class Pelicula {
+    String nombrePeli;
+    String nacionalidad;
+    double duracion;
+    String director;
+    String interpretes;
+    String argumento;
+    String genero;
+    ArrayList<Sesion>sesiones;
+    
     
 }
